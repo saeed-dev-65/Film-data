@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700;800;900&display=swap')
+
+font-family: 'Exo', sans-serif;
+
+<div class="slide active" id="slide-1">
+					<div class="container">
+						<div class="row">
+						<div class="col-2">
+							<h1 class="slide-title">The Lord of the Rings Triology</h1>
+							<div class="movie-details">
+								<div class="rating">
+									<embed src="./images/icons/star.svg" type="" />
+									<span class="rating-score">4.5</span>
+								</div>
+								<div class="genres">
+									<div class="genre">adventure</div>
+									<div class="genre">fantasy</div>
+								</div>
+							</div>
+							<div class="movie-infos">
+								<p class="director">
+									<span class="filed-name">Director : </span> Peter Jackson
+								</p>
+								<p class="contains">
+									<span class="filed-name"
+										>The Lord of the Rings Trilogy Contains :</span
+									>
+									<span class="num-1">The Fellowship of the Ring 2001</span>
+									<span class="num-1">The Fellowship of the Ring 2001</span>
+									<span class="num-1">The Fellowship of the Ring 2001</span>
+								</p>
+								<p class="description">
+									<span class="filed-name">Description : </span>This critically
+									acclaimed epic trilogy follows the quest undertaken by the
+									hobbit, Frodo Baggins, and his fellowship of companions to
+									save Middle-earth by destroying the One Ring and defeating the
+									evil forces of the Dark Lord Sauron.
+								</p>
+							</div>
+							<div class="slide-action">
+								<button class="btn btn-danger">MORE INFO</button>
+							</div>
+						</div>
+						<div class="col-2">
+							<div class="show-trailer">
+								<div class="play">
+									<svg
+										width="56"
+										height="56"
+										viewBox="0 0 56 56"
+										fill="none"
+										xmlns="http://www.w3.org/2000/svg"
+									>
+										<path
+											d="M28 0C12.5608 0 0 12.5608 0 28C0 43.4392 12.5608 56 28 56C43.4392 56 56 43.4392 56 28C56 12.5608 43.4392 0 28 0ZM22.4 37.6992V18.3008L39.2 28L22.4 37.6992Z"
+											fill="white"
+										/>
+									</svg>
+								</div>
+								<h4>PLAY TRAILER</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			
+				</div>
+
+
+					</div>
