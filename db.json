@@ -1,0 +1,1221 @@
+{
+	"movies": [
+		{
+			"id": 1,
+			"title": "Amadeus",
+			"genres": ["drama", "history"],
+			"users_rating": 80,
+			"release_Date": 1984,
+			"director": "Milos Forman",
+			"runtime": 160,
+			"meta_Score": 88,
+			"imdb_score": 8.3,
+			"actors": [
+				"F. Murray Abraham",
+				"Tom Hulce",
+				"Elizabeth Berridge",
+				"Roy Dotrice"
+			],
+			"image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcResYdQtMfD-4B1xDWjJ9N38_jcChtMyaskzKcIeS7PCbZE2V1b",
+			"overview": "Winner of eight Academy Awards, including Best Picture, this 1984 biopic chronicles the life of Amadeus Mozart, namely through the eyes of his bitter contemporary, Antonio Salieri. Striving for authenticity, director Milos Forman shot the film using only natural light, arguably taking some cues from Stanley Kubrick, who did the same when making “Barry Lyndon.” Tom Hulce went above and beyond to prepare for his role as the famous composer. For instance, Hulce practiced piano for four to five hours a day before filming began."
+		},
+		{
+			"id": 2,
+			"title": "The Hurt Locker",
+			"genres": ["war", "action"],
+			"users_rating": 84,
+			"release_Date": 2008,
+			"director": "Kathryn Bigelow",
+			"runtime": 131,
+			"meta_Score": 95,
+			"imdb_score": 7.6,
+			"actors": [
+				"Jeremy Renner",
+				"Brian Geraghty",
+				"Anthony Mackie",
+				"Guy earce"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYWYxZjU2MmQtMmMzYi00ZWUwLTg2ZWQtMDExZTVlYjM3ZWM1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+			"overview": "Kathryn Bigelow’s career hit a second stride with the release of her gripping Iraq War drama, “The Hurt Locker.” The film follows a bomb disposal team from one job to the next. Instead of traditional character development, the story coasts by on a wave of sustained and almost unbearable tension. It won a total of six Academy Awards, making Bigelow the first woman in history to win for Best Director."
+		},
+		{
+			"id": 3,
+			"title": "Mad Max: Fury Road",
+			"genres": ["fiction", "fantasy"],
+			"users_rating": 90,
+			"release_Date": 2015,
+			"director": "George Miller",
+			"runtime": 120,
+			"meta_Score": 90,
+			"imdb_score": 8.1,
+			"actors": [
+				"Charlize Theron",
+				"Tom Hardy",
+				"Nicholas Hoult",
+				"Hugh Keays‑Byr"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+			"overview": "Director George Miller resurrected his classic “Mad Max” franchise in 2015, with Tom Hardy taking on the lead role, formerly played by Mel Gibson. However, most fans would argue it's Charlize Theron's Furiosa who steals the show in this dazzling adventure movie, which sees her and Mad Max escaping the clutches of an evil warlord. As one might expect, the explosive action goes down in a post-apocalyptic wasteland inhabited by all sorts of depraved humans. The film took home six of the 10 Academy Awards for which it was nominated."
+		},
+		{
+			"id": 4,
+			"title": "The Truman Show",
+			"genres": ["sci-fi", "drama"],
+			"users_rating": 93,
+			"release_Date": 1998,
+			"director": "Peter Weir",
+			"runtime": 103,
+			"meta_Score": 90,
+			"imdb_score": 8.1,
+			"actors": ["Jim Carrey", "Laura Linney", "Ed Harris", "Noah Emmerich"],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+			"overview": "A film that only gets more prescient with time, 1998's “The Truman Show” takes place in a completely fabricated town, where cameras lurk behind every corner and every citizen is an actor or actress. Every citizen, that is, except Truman Burbank (Jim Carrey), the unwitting subject of a 24-hour reality show. As Truman catches on to the truth behind his existence, his cozy reality begins to collapse around him. Meanwhile, a megalomaniac named Christof (Ed Harris) pulls all the strings from above. Proving just how poignant the movie was and remains, a psychological condition known as the Truman Show Delusion has arisen in its wake. The film received three Oscar nominations, including for Best Screenplay – Written Directly for the Screen."
+		},
+		{
+			"id": 5,
+			"title": "Finding Nemo",
+			"genres": ["family", "adventure"],
+			"users_rating": 97,
+			"release_Date": 2003,
+			"director": "Andrew Stanton, Lee Unkrich",
+			"runtime": "100",
+			"meta_Score": 90,
+			"imdb_score": 8.1,
+			"actors": [
+				"Ellen DeGeneres",
+				"Alexander Gould",
+				"Albert Brooks",
+				"Andrew Stanton"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+			"overview": "Given Pixar's masterful grip on storytelling and computer animation alike, it's no surprise that the studio dominates when it comes to the best films of the 21st century. One of their most celebrated efforts is this 2003 adventure, in which a clownfish named Marlin navigates a perilous undersea terrain to find his missing son, Nemo. Until “The Incredibles 2” came along in 2018, this was Pixar's highest worldwide grossing film to date. The animated flick was so successful it spawned a spin-off sequel, “Finding Dory,” in June 2016."
+		},
+		{
+			"id": 6,
+			"title": "The Silence of the Lambs",
+			"genres": ["thriller", "horror"],
+			"users_rating": 100,
+			"release_Date": 1991,
+			"director": "Jonathan Demme",
+			"runtime": 118,
+			"meta_Score": 85,
+			"imdb_score": 8.6,
+			"actors": [
+				"Anthony Hopkins",
+				"Jodie Foster",
+				"Ted Levine",
+				"Frank Seals Jr."
+			],
+			"image_url": "https://contentserver.com.au/assets/510019_p13013_p_v8_ae.jpg",
+			"overview": "This 1991 crime drama wasn't the first to put Hannibal Lecter up on the big screen, but it was certainly the most impactful. Playing the iconic sadist to lizard-like perfection was actor Anthony Hopkins, who engages in a battle of wits with FBI Agent Clarice Starling (Jodie Foster) as he helps her track down a serial killer named Buffalo Bill. The film was followed by a sequel, a prequel, a TV show, and even an 8-bit video game-style short film. What's more, it is one of the few films to win five Academy Awards in all the major categories including Best Picture, Best Director, Best Actor, Best Actress, and Best Adapted Screenplay."
+		},
+		{
+			"id": 7,
+			"title": "The Circus",
+			"genres": ["comedy", "romance"],
+			"users_rating": 93,
+			"release_Date": 1928,
+			"director": "Charles Chaplin",
+			"runtime": 72,
+			"meta_Score": 90,
+			"imdb_score": 8.2,
+			"actors": [
+				"Charlie Chaplin",
+				"Merna Kennedy",
+				"Harry Crocker",
+				"Henry Bergman"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BM2QwYWQ0MWMtNzcwOC00N2Q2LWE1MDEtZmQxZjhiM2U1YzFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+			"overview": "Charlie Chaplin bridged slapstick comedy with tender melancholy in “The Circus.” Chaplin's role was as the “Little Tramp,” a drifter who gets hired as a clown when he accidentally runs into the middle of a circus performance while trying to evade police officers. As a clown, Little Tramp is only funny when he's not trying to be and suffers from an ill-fated infatuation with a bareback rider. The movie won an Academy Award at the first presentation ceremony of the awards in 1929 for “Versatility and genius in writing, acting, directing, and producing.” In spite of this achievement, the process of filming was the worst in Chaplin's career. He was in the process of divorcing Lita Grey as her lawyers dragged Chaplin's name through the mud and sought to acquire his studio assets, forcing an eight-month pause in production."
+		},
+		{
+			"id": 8,
+			"title": "Venom: Let There Be Carnage",
+			"genres": ["action", "adventure"],
+			"users_rating": 88,
+			"release_Date": 2021,
+			"director": "Andy Serkis",
+			"runtime": 97,
+			"meta_Score": 48,
+			"imdb_score": 6.0,
+			"actors": [
+				"Tom Hardy",
+				"Woody Harrelson",
+				"Michelle Williams",
+				"Naomie Harris"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
+			"overview": "Eddie Brock is still struggling to coexist with the shape-shifting extraterrestrial Venom. When deranged serial killer Cletus Kasady also becomes host to an alien symbiote, Brock and Venom must put aside their differences to stop his reign of terror."
+		},
+		{
+			"id": 9,
+			"title": "Stagecoach",
+			"genres": ["western", "drama"],
+			"users_rating": 84,
+			"release_Date": 1939,
+			"director": "John Ford",
+			"runtime": 96,
+			"meta_Score": 93,
+			"imdb_score": 7.9,
+			"actors": [
+				"John Wayne",
+				"Claire Trevor",
+				"John Carradine",
+				"Thomas Mitchell"
+			],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stagecoach_%281939_poster%29.jpg/1200px-Stagecoach_%281939_poster%29.jpg",
+			"overview": "Stagecoach” goes down in history as the film featuring John Wayne in his breakthrough role as the Ringo Kid. The storyline follows a ragtag group of characters aboard the Overboard stagecoach en route from Arizona Territory to New Mexico while the threat of outlaws—or an Apache attack—waits around every bend. The film walked away with the Academy Award for Best Supporting Actor for Thomas Mitchell and Best Music (Scoring)."
+		},
+		{
+			"id": 10,
+			"title": "The Producers",
+			"genres": ["musical", "comedy"],
+			"users_rating": 83,
+			"release_Date": 1967,
+			"director": "Mel Brooks",
+			"runtime": 88,
+			"meta_Score": 96,
+			"imdb_score": 7.6,
+			"actors": ["Mel Brooks", "Nathan Lane", "Zero Mostel", "Gene Wilder"],
+			"image_url": "https://flxt.tmsimg.com/assets/p90713_p_v10_aj.jpg",
+			"overview": "Putting show business in its crosshairs, this scathing satire follows two scheming producers as they plot the biggest Broadway flop of all time. The name of that flop is “Springtime for Hitler: A Gay Romp with Adolf and Eva at Berchtesgaden” and it’s every bit as offensive as one might expect. Even so, the film is regarded as a cult classic today. And what’s more, the movie earned Brooks his sole Academy Award, for Best Original Screenplay."
+		},
+		{
+			"id": 11,
+			"title": "Little Women",
+			"genres": ["romance", "drama"],
+			"users_rating": 91,
+			"release_Date": 2019,
+			"director": "Greta Gerwig",
+			"runtime": 135,
+			"meta_Score": 91,
+			"imdb_score": 8.1,
+			"actors": [
+				"Saoirse Ronan",
+				"Timothée Chalamet",
+				"Florence Pugh",
+				"Emma Charlotte Duerre"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTg5NTg3ODA1OV5BMl5BanBnXkFtZTgwODgzNjk5NDM@._V1_.jpg",
+			"overview": "Greta Gerwig’s sophomore directorial effort cemented her status as a veritable auteur, making her 2020 Oscars snub that much harder to swallow. Her take on Louisa May Alcott’s seminal novel is the last and arguably the best in a long line of big-screen adaptations. Actors Saoirse Ronan, Emma Watson, Florence Pugh, and Eliza Scanlen play the March sisters and lead a talented cast. At the British Academy Film Awards, however, the movie took home a win for Best Costume Design."
+		},
+		{
+			"id": 12,
+			"title": "Spider-Man: No Way Home",
+			"genres": ["action", "adventure"],
+			"users_rating": 86,
+			"release_Date": 2019,
+			"director": "John wats",
+			"runtime": 129,
+			"meta_Score": 69,
+			"imdb_score": 7.4,
+			"actors": [
+				"tom holland",
+				"Jake Gyllenhaal",
+				"jacob batalon",
+				"Tom Holland"
+			],
+			"image_url": "https://i.pinimg.com/736x/82/53/2e/82532e61528bd10c277e9722c6df5dee.jpg",
+			"overview": "Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins."
+		},
+		{
+			"id": 13,
+			"title": "Days of Heaven",
+			"genres": ["romance", "drama"],
+			"users_rating": 80,
+			"release_Date": 1978,
+			"director": "Terrence Malick",
+			"runtime": 94,
+			"meta_Score": 93,
+			"imdb_score": 7.9,
+			"actors": ["Brooke Adams", "Richard Gere", "Linda Manz", "Sam Shepard"],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZjMyZmU4OGYtNjBiYS00YTIxLWJjMDUtZjczZmQwMTM4YjQxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+			"overview": "Set during the turn of the 20th century, “Days of Heaven” follows a romantic couple named Bill and Abby as they take up employment on a Texas farm where they pretend to be siblings. When it's discovered that the landowner has feelings for Abby, the couple try to exploit those feelings for personal gain. Featuring lush cinematography and sparse dialogue, the movie cemented director Terrence Malick's status as a visual maestro, albeit one of an elusive nature. True to his mysterious persona, Malick went on a 20-year hiatus after this film was released. The film was chosen for preservation in the National Film Registry by the Library of Congress in 2007."
+		},
+		{
+			"id": 14,
+			"title": "The Best Years of Our Lives",
+			"genres": ["drama", "war"],
+			"users_rating": 89,
+			"release_Date": 1946,
+			"director": "William Wyler",
+			"runtime": 170,
+			"meta_Score": 92,
+			"imdb_score": 8.0,
+			"actors": [
+				"Harold Russell",
+				"Fredric March",
+				"Dana Andrews",
+				"Myrna Loy"
+			],
+			"image_url": "https://flxt.tmsimg.com/assets/p1312_p_v8_aa.jpg",
+			"overview": "In this harrowing 1946 drama, three soldiers return home after serving in World War II, and then struggle to reintegrate into society. It was directed by William Wyler, a former Air Force major whose previous war film, “Mrs. Miniver,” is held in similarly high regard. Despite the grim and depressing tone, “The Best Years of Our Lives” was the biggest box office success since 1939's “Gone With the Wind.” The picture was also one of the first 25 films selected by the Library of Congress for preservation in the United States National Film Registry in 1989."
+		},
+		{
+			"id": 15,
+			"title": "The Diving Bell and the Butterfly",
+			"genres": ["drama", "biography"],
+			"users_rating": 86,
+			"release_Date": 2007,
+			"director": "Julian Schnabel",
+			"runtime": 112,
+			"meta_Score": 92,
+			"imdb_score": 8.0,
+			"actors": [
+				"Mathieu Amalric",
+				"Marie‑Josée Croze",
+				"Emmanuelle Seigner",
+				"Max von Sydow"
+			],
+			"image_url": "https://flxt.tmsimg.com/assets/p171617_p_v10_ae.jpg",
+			"overview": "Julian Schnabel was best-known as an acclaimed painter before he transitioned into film, resulting in this French biographical drama. It tells the true story of magazine editor Jean-Dominique Bauby, who suffers from “locked-in syndrome.” Interweaving memory and reality, the movie glides along at its own unique and compelling pace. The movie was nominated for four Oscars, including Best Director and Best Film Editing."
+		},
+		{
+			"id": 16,
+			"title": "On the Waterfront",
+			"genres": ["drama", "romance"],
+			"users_rating": 85,
+			"release_Date": 1954,
+			"director": "Elia Kazan",
+			"runtime": 108,
+			"meta_Score": 91,
+			"imdb_score": 8.1,
+			"actors": ["Marlon Brando", "Karl Malden", "Lee J. Cobb", "Rod Steiger"],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/On_the_Waterfront_%281954_poster%29.jpg",
+			"overview": "On the Waterfront” is a black and white crime drama starring Marlon Brando as Terry Malloy, a dockworker whose brother (Rod Steiger) works closely with their corrupted dockers' union boss (Lee J. Cobb). Throughout the movie, pressure builds as Malloy seeks to find his own footing and voice—and stand up to the crooked overlord. The film won eight Oscars and four Golden Globes. Additionally, the movie was chosen for preservation in the United States National Film Registry in 1989."
+		},
+		{
+			"id": 17,
+			"title": "Cool Hand Luke",
+			"genres": ["drama", "crime"],
+			"users_rating": 88,
+			"release_Date": 1967,
+			"director": "Stuart Rosenberg",
+			"runtime": 127,
+			"meta_Score": 91,
+			"imdb_score": 8.1,
+			"actors": [
+				"Paul Newman",
+				"George Kennedy",
+				"Strother Martin",
+				"Dennis Hopper"
+			],
+			"image_url": "https://images.moviesanywhere.com/91d52463cb90ada7cbb14e9f19651f5c/58954f2c-5b72-4364-a0a3-8bc80b5cdf54.jpg",
+			"overview": "In this 1967 drama, Paul Newman plays a laid-back inmate in a rural prison, who routinely clashes with his overseers. The film was nominated for four Academy Awards, winning George Kennedy the trophy for Best Supporting Actor. Ex-convict Donn Pearce authored the book upon which the film was based and co-wrote the screenplay. Despite his involvement, Pearce would later express disappointment in the finished product. "
+		},
+		{
+			"id": 18,
+			"title": "Annie Hall",
+			"genres": ["comedy", "romance"],
+			"users_rating": 83,
+			"release_Date": 1977,
+			"director": "Woody Allen",
+			"runtime": 93,
+			"meta_Score": 92,
+			"imdb_score": 8.0,
+			"actors": ["Woody Allen", "Diane Keaton", "Shelley Duvall", "Carol Kane"],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+			"overview": "Woody Allen is still cranking out new movies. But it’s1977’s “Annie Hall” that remains one of his most groundbreaking achievements, namely for its unconventional style. Allen breaks the fourth wall, incorporates animation, reads minds, time jumps, and employs a variety of comedic devices, all while telling a relatively simple love story. Not only was the movie influential as a work of art, but the title character (played by Diane Keaton) became something of a fashion icon. The United States Library of Congress selected the film for preservation in the National Film Registry in 1992."
+		},
+		{
+			"id": 19,
+			"title": "Crouching Tiger, Hidden Dragon",
+			"genres": ["romance", "martial arts"],
+			"users_rating": 89,
+			"release_Date": 2000,
+			"director": "Ang Lee",
+			"runtime": 120,
+			"meta_Score": 94,
+			"imdb_score": 7.8,
+			"actors": ["Michelle Yeoh", "Zhang Ziyi", "Chow Yun‑fat", "Chang Chen"],
+			"image_url": "https://rajksite.com/wp-content/uploads/2020/08/CrochingTigerHiddenDragonPoster.jpg",
+			"overview": "Ang Lee returned to his Taiwanese roots to direct this Mandarin Chinese martial arts masterpiece, which follows two 19th-century warriors as they pursue a missing sword. One of the top-grossing foreign-language films of all time, it helped pave the way for a string of highbrow martial arts-themed movies. The film was nominated for 10 Academy Awards, including Best Picture and Best "
+		},
+		{
+			"id": 20,
+			"title": "L.A. Confidential",
+			"genres": ["crime", "drama"],
+			"users_rating": 89,
+			"release_Date": 1997,
+			"director": "Curtis Hanson",
+			"runtime": 138,
+			"meta_Score": 90,
+			"imdb_score": 8.2,
+			"actors": [
+				"Russell Crowe",
+				"Kim Basinger",
+				"Guy Pearce",
+				"TKevin Spacey"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+			"overview": "Adapted from James Ellroy's brilliant pulp novel, this 1997 crime drama takes place in 1950s Los Angeles and follows three police officers as they investigate a horrific murder. As the probe deepens, the officers come up against a tide of corruption, the source of which hits closer to home than they ever could have imagined. Included in the star-studded cast are Russell Crowe, Kim Basinger, Kevin Spacey, Guy Pearce, and James Cromwell. The movie earned nine Academy Award nominations (including for Best Picture), winning two: Best Supporting Actress (Kim Basinger) and Best Adapted Screenplay."
+		},
+		{
+			"id": 21,
+			"title": "All About Eve",
+			"genres": ["drama"],
+			"users_rating": 87,
+			"release_Date": 1950,
+			"director": "Joseph L. Mankiewicz",
+			"runtime": 138,
+			"meta_Score": 98,
+			"imdb_score": 8.2,
+			"actors": [
+				"F. Murray Abraham",
+				"Tom Hulce",
+				"Elizabeth Berridge",
+				"Roy Dotrice"
+			],
+			"image_url": "https://lumiere-a.akamaihd.net/v1/images/allabouteve_584x800_e90ac067.jpeg?region=0%2C0%2C584%2C800",
+			"overview": "In this 1950 drama, an obsessive actress (Anne Baxter) climbs her way to the top of a theater company by ruthlessly manipulating her supposed idol (Bette Davis). Written and directed by Joseph L. Mankiewicz, “All About Eve” cynically—albeit accurately—portrays show business as a cruel and unforgiving industry, especially to actresses of a certain age. The film was nominated for 14 Academy Awards (winning six of them), which ties it with “Titanic” and “La La Land” for the most Oscar nominations in Hollywood history. “All About Eve” became one of the first 50 movies chosen for preservation in the U.S. Library of Congress' National Film Registry."
+		},
+		{
+			"id": 22,
+			"title": "The Hobbit: An Unexpected Journey",
+			"genres": ["fantasy", "adventure"],
+			"users_rating": 87,
+			"release_Date": 2012,
+			"director": "Peter Jackson",
+			"runtime": 169,
+			"meta_Score": 58,
+			"imdb_score": 7.8,
+			"actors": [
+				"Martin Freeman",
+				"Ian McKellen",
+				"Andy Serkis",
+				"Richard Armitage"
+			],
+			"image_url": "https://www.hmhbooks.com/shop/books/assets/product/9780547898568_lres.gif",
+			"overview": "Bilbo Baggins, a hobbit, is persuaded into accompanying a wizard and a group of dwarves on a journey to reclaim the city of Erebor and all its riches from the dragon Smaug."
+		},
+		{
+			"id": 23,
+			"title": "The Godfather: Part II",
+			"genres": ["crime", "drama"],
+			"users_rating": 9,
+			"release_Date": 1974,
+			"director": "Francis Ford Coppola",
+			"runtime": 202,
+			"meta_Score": 90,
+			"imdb_score": 9.0,
+			"actors": ["Al Pacino", "Robert De Niro", "Diane Keaton", "Talia Shire"],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+			"overview": "Continuing “The Godfather” saga to rapturous acclaim (and six Academy Awards), this 1974 sequel finds Michael Corleone (Al Pacino) squaring off against a sea of troubles while trying to expand and legitimize his empire. Also depicted is a young Vito Corleone (Robert De Niro), who journeys to the United States from Italy in the early 1900s and ascends to power after murdering the local don. After De Niro won an Academy Award for his performance, he and Marlon Brando became the only two actors in history to win an Oscar for their portrayal of the same character. The sequel was selected for preservation in the U.S. National Film Registry of the Library of Congress in 1993."
+		},
+		{
+			"id": 24,
+			"title": "The Lord of the Rings: The Fellowship of the Ring",
+			"genres": ["fantasy", "adventure"],
+			"users_rating": 88,
+			"release_Date": 2001,
+			"director": "Peter Jackson",
+			"runtime": 178,
+			"meta_Score": 91,
+			"imdb_score": 8.8,
+			"actors": ["Jim Carrey", "Laura Linney", "Ed Harris", "Noah Emmerich"],
+			"image_url": "https://images.moviesanywhere.com/198e228b071c60f5ad57e5f62fe60029/ff22cad6-2218-414d-b853-3f95d76905c7.jpg",
+			"overview": "Peter Jackson's “Lord of the Rings” trilogy kicked off in 2001 with this celebrated installment. After coming into possession of a powerful ring, a hobbit named Frodo (Elijah Wood) and his companions set out to destroy the relic before it ends up in the wrong hands. Hot on their tail is a range of murderous creatures, who will stop at nothing to get their hands on the all-powerful ring. At the 74th Academy Awards, the film was nominated for 13 awards, winning four: Best Cinematography, Best Makeup, Best Original Score and Best Visual Effects."
+		},
+		{
+			"id": 26,
+			"title": "Sweet Smell of Success",
+			"genres": ["noir", "drama"],
+			"users_rating": 83,
+			"release_Date": 1957,
+			"director": "Alexander Mackendrick",
+			"runtime": 96,
+			"meta_Score": 100,
+			"imdb_score": 8.1,
+			"actors": ["Tony Curtis", "Burt Lancaster", "Jeff Donnell", "Sam Levene"],
+			"image_url": "https://ashadedviewonfashion.com/wp-content/uploads/2020/04/ashadedviewonfashion.com-lockdown-film-of-the-day-the-sweet-smell-of-success-p754-v-v8-aa.jpg",
+			"overview": "Some of the best films take a little time to catch on with audiences, eventually obtaining masterpiece status. Such was the case with 1957's “Sweet Smell of Success,” which underperformed upon its initial release, but has since earned itself a very loyal following. Converging multiple genres such as drama and noir, the movie centers on an unscrupulous Broadway columnist named J.J. Hunsecker (Burt Lancaster), who goes to great lengths to destroy his sister's relationship with a jazz musician. The film spawned a musical, titled “Sweet Smell of Success: The Musical,” in 2002."
+		},
+		{
+			"id": 26,
+			"title": "Modern Times",
+			"genres": ["comedy", "romance"],
+			"users_rating": 90,
+			"release_Date": 1936,
+			"director": "Charles Chaplin",
+			"runtime": 87,
+			"meta_Score": 96,
+			"imdb_score": 8.5,
+			"actors": [
+				"Charlie Chaplin",
+				"Paulette Goddard",
+				"Henry Bergman",
+				"Chester Conklin"
+			],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Modern_Times_poster.jpg",
+			"overview": "Charlie Chaplin reprised his role as The Tramp for this 1936 masterpiece, which stuck to silent-era traditions despite being made in the age of talkies. In the film, The Tramp struggles to make ends meet in a highly industrialized world, famously slithering his way through the gears of a machine during one of the era's most epochal scenes. Chaplin was reportedly inspired to make the film after talking about machinery and technology with Mahatma Gandhi. “Modern Times” was one of the earliest films chosen by the Library of Congress for preservation in the United States National Film Registry in 1989."
+		},
+		{
+			"id": 27,
+			"title": "North by Northwest",
+			"genres": ["thriller", "mystery"],
+			"users_rating": 90,
+			"release_Date": 1959,
+			"director": "Alfred Hitchcock",
+			"runtime": 136,
+			"meta_Score": 98,
+			"imdb_score": 8.3,
+			"actors": [
+				"Cary Gran",
+				"Eva Marie Saint",
+				"James Mason",
+				"Martin Landau"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg",
+			"overview": "No list of great films is complete without Alfred Hitchcock, and this 1959 thriller finds the famous director at the top of his game. The movie stars Cary Grant as a New York ad executive, who gets caught up in the world of international espionage after being mistaken for a notorious spy. What follows is an epic struggle for survival, which culminates with a deadly showdown on Mount Rushmore. Regarded as one of the greatest films of all time, “North by Northwest” garnered three Academy Award nominations."
+		},
+		{
+			"id": 28,
+			"title": "Singin' in the Rain",
+			"genres": ["musical", "romance"],
+			"users_rating": 89,
+			"release_Date": 1952,
+			"director": "Stanley Donen, Gene Kelly",
+			"runtime": 103,
+			"meta_Score": 99,
+			"imdb_score": 8.3,
+			"actors": [
+				"Orson Welles",
+				"Joseph Cotten",
+				"Agnes Moorehead",
+				"Everett Sloane"
+			],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+			"overview": "Arguably the most celebrated musical of all time, “Singin' in the Rain” takes place during the rise of talkies and finds the members of a production company struggling to adapt. Not only did Gene Kelly star, co-direct, and choreograph the film, but he performed a song-and-dance number with a temperature of 103 degrees Fahrenheit. Debbie Reynolds co-stars in her breakthrough role as Kathy Selden. In 1989, the movie became one of the first 25 films selected by the United States Library of Congress for preservation in the National Film Registry."
+		},
+		{
+			"id": 29,
+			"title": "Psycho",
+			"genres": ["horror", "thriller"],
+			"users_rating": 87,
+			"release_Date": 1960,
+			"director": "Alfred Hitchcock",
+			"runtime": 109,
+			"meta_Score": 97,
+			"imdb_score": 8.5,
+			"actors": ["Anthony Perkins", "Janet Leigh", "Vera Miles", "John Gavin"],
+			"image_url": "https://c8.alamy.com/comp/EF85MH/movie-poster-psycho-1960-EF85MH.jpg",
+			"overview": "Far more than a heralded thriller, 1960's “Psycho” paved the way for the modern slasher genre, and furthermore upended various mainstream conventions. In telling the story of a murderous hotel owner, Alfred Hitchcock relied on everything from quick cuts to gripping music to a shape-shifting narrative, thereby delivering a completely new cinematic experience. To this day, the famous shower scene is among the most important sequences in movie history. The film was also nominated for four Oscars, and won Janet Leigh the Golden Globe Award for Best Supporting Actress."
+		},
+		{
+			"id": 30,
+			"title": "Vertigo",
+			"genres": ["mystery", "thriller"],
+			"users_rating": 89,
+			"release_Date": 1958,
+			"director": "Alfred Hitchcock",
+			"runtime": 128,
+			"meta_Score": 100,
+			"imdb_score": 8.3,
+			"actors": [
+				"Kim Novak",
+				"James Stewart",
+				"Barbara Bel Geddes",
+				"Ellen Corby"
+			],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vertigomovie_restoration.jpg/1200px-Vertigomovie_restoration.jpg",
+			"overview": "Nothing is as it seems in “Vertigo,” an Alfred Hitchcock classic based on Boileau-Narcejac's 1954 novel “D'entre les morts” (“From Among the Dead”). In the film, a former police detective (James Stewart) is hired to trail a friend's wife (Kim Novak) who's been acting strangely and may be at risk of harming herself. The otherwise mundane gig goes haywire as the P.I. becomes obsessed with the woman and Hitchcock shares his most revelatory, personal production of his career. The classic Hitchcock film was preserved in the U.S. National Film Registry in 1989."
+		},
+		{
+			"id": 31,
+			"title": "Citizen Kane",
+			"genres": ["drama", "mystery"],
+			"users_rating": 84,
+			"director": "Alfred Hitchcock",
+			"runtime": 109,
+			"meta_Score": 97,
+			"imdb_score": 8.5,
+			"actors": [
+				"Orson Welles",
+				"Joseph Cotten",
+				"Agnes Moorehead",
+				"Everett Sloane"
+			],
+			"image_url": "https://images-na.ssl-images-amazon.com/images/I/71mwcSqNppL.jpg",
+			"overview": "Here's a movie so great that when something else is likewise terrific, that thing is often referred to as the “Citizen Kane” of its respective arena. Accordingly, this 1941 film—which depicts the ambitious rise of newspaper magnate Charles Foster Kane (Orson Welles)—has only gotten better with age. It might no longer retain the #1 spot on lists of the greatest films, including this one, but ask the right cinephile, and they will likely assert “Citizen Kane” is still the best movie of them all. Despite garnering nine Academy Awards, the film only walked away with one, for Best Original Screenplay."
+		},
+		{
+			"id": 32,
+			"title": "Schindler's List",
+			"genres": ["war", "drama"],
+			"users_rating": 94,
+			"release_Date": 1993,
+			"director": "Steven Spielberg",
+			"runtime": 195,
+			"meta_Score": 94,
+			"imdb_score": 8.9,
+			"actors": [
+				"Liam Neeson",
+				"Ralph Fiennes",
+				"Ben Kingsley",
+				"Embeth Davidtz"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+			"overview": "While Steven Spielberg was no stranger to serious fare by the early 1990s, he nevertheless caught audiences by surprise when he released this award-winning drama. It tells the true story of Oskar Schindler, a German industrialist who ultimately saved 1,100 Jewish lives during the Holocaust. Spielberg forewent a salary when making the film, and donated the profits to a charitable foundation. The movie was nominated for twelve Academy Awards, winning seven, including Best Picture, Best Director, and Best Adapted Screenplay."
+		},
+		{
+			"id": 33,
+			"title": "The Lord of the Rings: The Return of the King",
+			"genres": ["fantasy", "adventure"],
+			"users_rating": 89,
+			"release_Date": 2003,
+			"director": "Peter Jackson",
+			"runtime": 201,
+			"meta_Score": 94,
+			"imdb_score": 8.9,
+			"actors": [
+				"Elijah Wood",
+				"Viggo Mortensen",
+				"Andy Serkis",
+				"Ian McKellen"
+			],
+			"image_url": "https://flxt.tmsimg.com/assets/p33156_p_v10_ab.jpg",
+			"overview": "In the final installment of Peter Jackson's “Lord of the Rings” trilogy, the forces of good and evil do battle over the fate of Middle Earth, while Frodo reaches the last leg of his journey. Not only did the film earn over a billion dollars at the box office, but it won 11 Academy Awards out of 11 nominations, giving it the highest perfect score in Oscar history. It also tied with “Ben-Hur” and “Titanic” for the film with the most Oscar wins."
+		},
+		{
+			"id": 34,
+			"title": "Pulp Fiction",
+			"genres": ["crime", "drama"],
+			"users_rating": 92,
+			"release_Date": 1994,
+			"director": "Quentin Tarantino",
+			"runtime": 154,
+			"meta_Score": 94,
+			"imdb_score": 8.9,
+			"actors": [
+				"Uma Thurman",
+				"Quentin Tarantino",
+				"John Travolta",
+				"Samuel L. Jackson"
+			],
+			"image_url": "https://img.posterlounge.co.uk/images/l/1895909.jpg",
+			"overview": "Quentin Tarantino's second directorial effort arguably remains his most quintessential work. Interweaving three violent stories—while simultaneously paying homage to a host of influences—“Pulp Fiction” is quite simply the stuff that great cinema is made of. Speaking of influences, the hit film was happy to pay it forward, inspiring a wave of upcoming auteurs. In 2013, “Pulp Fiction” was chosen for preservation in the U.S. National Film Registry by the Library of Congress."
+		},
+		{
+			"id": 35,
+			"title": "City Lights",
+			"genres": ["romance", "comedy"],
+			"users_rating": 92,
+			"release_Date": 1931,
+			"director": "Charles Chaplin",
+			"runtime": 87,
+			"meta_Score": 99,
+			"imdb_score": 8.5,
+			"actors": [
+				"Charlie Chaplin",
+				"Virginia Cherrill",
+				"Harry C. Myers",
+				"Hank Mann"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+			"overview": "Sticking to his well-established roots, Chaplin released this primarily silent film three years into the talkie era. Rife with signature pantomime, it follows The Tramp (Chaplin) as he resorts to various extremes while trying to make a buck. It all paves the way for one of cinema’s most unforgettable final scenes, during which the story’s underlying pathos is laid bare. Hailed as being one of the greatest and most inspiring films, “City Lights” went on to be preserved in the United States National Film Registry in 1991."
+		},
+		{
+			"id": 36,
+			"title": "On the Waterfront",
+			"genres": ["romance", "drama"],
+			"users_rating": 85,
+			"release_Date": 1954,
+			"director": "Elia Kazan",
+			"runtime": 108,
+			"meta_Score": 91,
+			"imdb_score": 8.1,
+			"actors": ["Marlon Brando", "Karl Malden", "Lee J. Cobb", "Rod Steiger"],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/On_the_Waterfront_%281954_poster%29.jpg",
+			"overview": "On the Waterfront” is a black and white crime drama starring Marlon Brando as Terry Malloy, a dockworker whose brother (Rod Steiger) works closely with their corrupted dockers' union boss (Lee J. Cobb). Throughout the movie, pressure builds as Malloy seeks to find his own footing and voice—and stand up to the crooked overlord. The film won eight Oscars and four Golden Globes. Additionally, the movie was chosen for preservation in the United States National Film Registry in 1989."
+		},
+		{
+			"id": 37,
+			"title": "Rear Window",
+			"genres": ["crime", "mystery"],
+			"users_rating": 92,
+			"release_Date": 1954,
+			"director": "Alfred Hitchcock",
+			"runtime": 112,
+			"meta_Score": 100,
+			"imdb_score": 8.4,
+			"actors": [
+				"Grace Kelly",
+				"James Stewart",
+				"Raymond Burr",
+				"Thelma Ritter"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+			"overview": "In addition to striking the perfect balance of intrigue and suspense, this 1954 Hitchcock film endures through its perennial relatability. After all, who hasn't wondered what his or her neighbor might be up to behind closed doors? In “Rear Window,” the answer is potentially murder. Or is a wheelchair-bound James Stewart simply letting his paranoia get the best of him? To say anything more is to spoil the fun of watching this classic for the first time. The movie earned four Academy Award nominations, including Best Director and Best Adapted Screenplay."
+		},
+		{
+			"id": 38,
+			"title": "Casablanca",
+			"genres": ["romance", "drama"],
+			"users_rating": 87,
+			"release_Date": 1942,
+			"director": "Michael Curtiz",
+			"runtime": 102,
+			"meta_Score": 100,
+			"imdb_score": 8.5,
+			"actors": [
+				"Humphrey Bogart",
+				"Ingrid Bergman",
+				"Claude Rains",
+				"Paul Henreid"
+			],
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg",
+			"overview": "This 1942 masterwork takes place in the Moroccan town of Casablanca, where jaded nightclub owner Rick Blaine (Humphrey Bogart) helps refugees flee to America to evade Nazi capture. After Blaine's former flame (Ingrid Bergman) and her husband show up seeking his help, he finds himself entering a world of trouble. Most cinephiles would argue “Casablanca” is the result of a perfect screenplay, yet when that very same screenplay was passed around under a different name in the 1980s, professional readers chastised it for having “too much dialog” and “not enough sex.” Nevertheless, the original script—and subsequent film—was about as close to perfect as a movie could get for its time. What's more, the film claimed three of the eight Oscars for which it was nominated, including Best Director and Best Screenplay."
+		},
+		{
+			"id": 39,
+			"title": "12 Angry Men",
+			"genres": ["drama", "legal drama"],
+			"users_rating": 94,
+			"release_Date": 1957,
+			"director": "Sidney Lumet",
+			"runtime": 96,
+			"meta_Score": 96,
+			"imdb_score": 8.9,
+			"actors": ["Michelle Yeoh", "Zhang Ziyi", "Chow Yun‑fat", "Chang Chen"],
+			"image_url": "https://flxt.tmsimg.com/assets/p2084_p_v10_ad.jpg",
+			"overview": "Snagging the #2 slot is this taut 1957 drama from Sidney Lumet, in which 12 (angry) jurors determine the fate of a suspected murderer. What starts as an open-and-shut case becomes something far more complex, as a lone holdout convinces the others that the defendant might not be guilty after all. As the debate unfolds, each juror's own respective prejudices bubble to surface, with all the action taking place inside the jury room.  In 2007, the film was chosen for preservation in the U.S. National Film Registry by the Library of Congress."
+		},
+		{
+			"id": 40,
+			"title": "the godfather",
+			"genres": ["crime", "drama"],
+			"users_rating": 93,
+			"release_Date": 1972,
+			"director": "Francis Ford Coppola",
+			"runtime": 175,
+			"meta_Score": 100,
+			"imdb_score": 9.2,
+			"actors": [
+				"Al Pacino",
+				"Marlon Brando",
+				"Robert De Niro",
+				"Diane Keaton"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+			"overview": "Adapted from James Ellroy's brilliant pulp novel, this 1997 crime drama takes place in 1950s Los Angeles and follows three police officers as they investigate a horrific murder. As the probe deepens, the officers come up against a tide of corruption, the source of which hits closer to home than they ever could have imagined. Included in the star-studded cast are Russell Crowe, Kim Basinger, Kevin Spacey, Guy Pearce, and James Cromwell. The movie earned nine Academy Award nominations (including for Best Picture), winning two: Best Supporting Actress (Kim Basinger) and Best Adapted Screenplay."
+		},
+		{
+			"id": 41,
+			"title": "The Lord of the Rings: The Two Towers",
+			"genres": ["fantasy", "adventure"],
+			"users_rating": 89,
+			"release_Date": 2002,
+			"director": "peter jackson",
+			"runtime": 179,
+			"meta_Score": 87,
+			"imdb_score": 8.7,
+			"actors": [
+				"Viggo Mortensen",
+				"Orlando Bloom",
+				"Elijah Wood",
+				"Ian McKellen"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+			"overview": "Frodo and Sam arrive in Mordor with the help of Gollum. A number of new allies join their former companions to defend Isengard as Saruman launches an assault from his domain.."
+		},
+		{
+			"id": 42,
+			"title": "The Hobbit: The Desolation of Smaug",
+			"genres": ["fantasy", "adventure"],
+			"users_rating": 81,
+			"release_Date": 2013,
+			"director": "peter jackson",
+			"runtime": 161,
+			"meta_Score": 66,
+			"imdb_score": 7.8,
+			"actors": [
+				"Evangeline Lilly",
+				"Benedict Cumberbatch",
+				"Richard Armitage",
+				"Orlando Bloom"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_.jpg",
+			"overview": "Bilbo Baggins, a hobbit, and his companions face great dangers on their journey to Laketown. Soon, they reach the Lonely Mountain, where Bilbo comes face-to-face with the fearsome dragon Smaug."
+		},
+		{
+			"id": 43,
+			"title": "The Hobbit: The Battle of the Five Armies",
+			"genres": ["fantasy", "adventure"],
+			"users_rating": 85,
+			"release_Date": 2014,
+			"director": "Peter Jackson",
+			"runtime": 144,
+			"meta_Score": 59,
+			"imdb_score": 7.4,
+			"actors": [
+				"Peter Jackson",
+				"Richard Armitage",
+				"Martin Freeman",
+				"Evangeline Lilly"
+			],
+			"image_url": "https://static.metacritic.com/images/products/movies/1/1f7feb5a8cab6c9090608fc6517961b3.jpg",
+			"overview": "Bilbo fights against a number of enemies to save the life of his Dwarf friends and protects the Lonely Mountain after a conflict arises."
+		},
+		{
+			"id": 44,
+			"title": "Dune",
+			"genres": ["sci-fi", "adventure"],
+			"users_rating": 85,
+			"release_Date": 2021,
+			"director": "enis Villeneuve",
+			"runtime": 155,
+			"meta_Score": 81,
+			"imdb_score": 8.2,
+			"actors": [
+				"Timothée Chalamet",
+				"Zendaya Maree Stoermer Coleman",
+				"Rebecca Ferguson",
+				"Oscar Isaac"
+			],
+			"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJznVehDbSUPihJbSTNwH8Tgnvh4ZDxs0J4hV06wOvHHidHul",
+			"overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their own fear will survive."
+		},
+		{
+			"id": 45,
+			"title": "The Boss Baby: Family Business",
+			"genres": ["family", "comedy"],
+			"users_rating": 91,
+			"release_Date": 2021,
+			"director": "Tom McGrath",
+			"runtime": 107,
+			"meta_Score": 39,
+			"imdb_score": 5.9,
+			"actors": [
+				"Tom McGrath",
+				"James Marsden",
+				"Amy Sedaris",
+				"Jeff Goldblum"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZmQ0YTUxN2MtNDAxYy00NmE4LTk2YmQtYTJlZmFjYThhYmU2XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+			"overview": "When a vicious professor attempts to destroy childhoods, the Boss Baby sets out on a mission to put a stop to his plans."
+		},
+		{
+			"id": 46,
+			"title": "Sweet Girl",
+			"genres": ["action", "drama"],
+			"users_rating": 69,
+			"release_Date": 2021,
+			"director": "Brian Mendoza",
+			"runtime": 110,
+			"meta_Score": 46,
+			"imdb_score": 5.5,
+			"actors": [
+				"Jason Momoa",
+				"Pete Davidson",
+				"John Cena",
+				"Daniela Melchior"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOGIzOTZiZjItNTMyYS00ODcyLWE2ZDUtYWNjZDNmNTUxYjVkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+			"overview": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left -- his daughter."
+		},
+		{
+			"id": 47,
+			"title": "The Suicide Squad",
+			"genres": ["action", "adventure"],
+			"users_rating": 85,
+			"release_Date": 2021,
+			"director": "James Gunn",
+			"runtime": 132,
+			"meta_Score": 72,
+			"imdb_score": 7.3,
+			"actors": [
+				"Margot Robbie",
+				"Isabela Merced",
+				"Adria Arjona",
+				"Justin Bartha"
+			],
+			"image_url": "https://images-na.ssl-images-amazon.com/images/I/A1sm-Z9jifL._RI_.jpg",
+			"overview": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left -- his daughter."
+		},
+		{
+			"id": 48,
+			"title": "Rurouni Kenshin: The Final",
+			"genres": ["action", "adventure"],
+			"users_rating": 89,
+			"release_Date": 2021,
+			"director": "Keishi Ohtomo",
+			"runtime": 138,
+			"meta_Score": "NA",
+			"imdb_score": 7.3,
+			"actors": [
+				"Mackenyu",
+				"Takeru Satoh",
+				"Kasumi Arimura",
+				"Shuntaro Yanagi"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDM5ZDM0ZDItZDgwYy00MWFmLTg2MjYtZDQ4OGViYTY3ODQ1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+			"overview": "In 1879, Kenshin and his allies face off against their toughest enemy yet: his former brother-in-law Enishi Yukishiro and his minions, who've vowed their revenge"
+		},
+		{
+			"id": 49,
+			"title": "The Last Duel",
+			"genres": ["drama", "history"],
+			"users_rating": 85,
+			"release_Date": 2021,
+			"director": "Ridley Scott",
+			"runtime": 152,
+			"meta_Score": 67,
+			"imdb_score": 7.5,
+			"actors": ["Jodie Comer", "Matt Damon", "Adam Driver", "Ben Affleck"],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGExZTUzYWQtYWJjZi00OTI4LTk4OGYtNTA2YzcwMmNiZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+			"overview": "Jean de Carrouges is a respected knight known for his bravery and skill on the battlefield. Jacques Le Gris is a squire whose intelligence and eloquence makes him one of the most admired nobles in court. When Le Gris viciously assaults Carrouges' wife, she steps forward to accuse her attacker, an act of bravery and defiance that puts her life in jeopardy. The ensuing trial by combat, a grueling duel to the death, places the fate of all three in God's hands."
+		},
+		{
+			"id": 50,
+			"title": "Bad Boys for Life",
+			"genres": ["action", "comedy"],
+			"users_rating": 87,
+			"release_Date": 2020,
+			"director": "Bilall Fallah, Adil El Arbi",
+			"runtime": 124,
+			"meta_Score": 59,
+			"imdb_score": 5.5,
+			"actors": [
+				"Will Smith",
+				"Vanessa Hudgens",
+				"Paola Núñez",
+				"Alexander Ludwig"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+			"overview": "Detectives Mike Lowrey and Marcus Burnett join the Miami Police Department's special team AMMO to bring down the ruthless Armando, who is on a mission to kill Mike at his mother Isabel's orders."
+		},
+		{
+			"id": 51,
+			"title": "Extraction",
+			"genres": ["action", "thriller"],
+			"users_rating": 88,
+			"release_Date": 2020,
+			"director": "Francis Ford Coppola",
+			"runtime": 116,
+			"meta_Score": 56,
+			"imdb_score": 7.7,
+			"actors": [
+				"Chris Hemsworth",
+				"Golshifteh Farahani",
+				"Adria Arjona",
+				"Randeep Hooda"
+			],
+			"image_url": "https://miro.medium.com/max/1000/1*-4xBieWsuATXroC4U6KqBg.jpeg",
+			"overview": "A black-market mercenary who has nothing to lose is hired to rescue the kidnapped son of an imprisoned international crime lord. But in the murky underworld of weapons dealers and drug traffickers, an already deadly mission approaches the impossible."
+		},
+		{
+			"id": 52,
+			"title": "Rebecca",
+			"genres": ["romance", "mystery"],
+			"users_rating": 73,
+			"release_Date": 2020,
+			"director": "Ben Wheatley",
+			"runtime": 123,
+			"meta_Score": 49,
+			"imdb_score": 6.0,
+			"actors": [
+				"Lily James",
+				"Armie Hammer",
+				"Kristin Scott Thomas",
+				"Bryony Miller"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzgzNGFkNDItZTJkZC00NzJkLTk2OWMtNzliM2I5YzQxYjkxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+			"overview": "A young newlywed arrives at her husband's imposing family estate on a windswept English coast and finds herself battling the shadow of his first wife, Rebecca, whose legacy lives on in the house long after her death."
+		},
+		{
+			"id": 53,
+			"title": "The Croods: A New Age",
+			"genres": ["family", "adventure"],
+			"users_rating": 80,
+			"release_Date": 2020,
+			"director": "Joel Crawford",
+			"runtime": 95,
+			"meta_Score": 56,
+			"imdb_score": 7.0,
+			"actors": ["Nicolas Cage", "Emma Stone", "Ryan Reynolds", "Leslie Mann"],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGU1NGNiYzYtMTQ2Ni00M2ZlLTg0N2QtMDFhMzNjNzcyMGYyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+			"overview": "While looking for a home, the Croods stumble into the walled land owned by the Betterman family. They are looked down upon by the technologically advanced Bettermans but help them during a crisis."
+		},
+		{
+			"id": 54,
+			"title": "Tenet",
+			"genres": ["action", "sci-fi"],
+			"users_rating": 86,
+			"release_Date": 2020,
+			"director": "Christopher Nolan",
+			"runtime": 150,
+			"meta_Score": 69,
+			"imdb_score": 7.4,
+			"actors": [
+				"Elizabeth Debicki",
+				"Robert Pattinson",
+				"John David Washington",
+				"Kenneth Branagh"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDhiODUyN2UtYTQzZi00YTE0LWJiMWEtYTVlODEyZDQwYzRhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+			"overview": "When a few objects that can be manipulated and used as weapons in the future fall into the wrong hands, a CIA operative, known as the Protagonist, must save the world."
+		},
+		{
+			"id": 55,
+			"title": "Child's Play",
+			"genres": ["slasher", "thriller"],
+			"users_rating": 67,
+			"release_Date": 2019,
+			"director": "Lars Klevberg",
+			"runtime": 120,
+			"meta_Score": 48,
+			"imdb_score": 5.7,
+			"actors": [
+				"Aubrey Plaza",
+				"Brian Tyree Henry",
+				"Beatrice Kitsos",
+				"Zahra Anderson"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDdmZTc1N2YtMGE4Ny00ZjVmLWI3NzctZjhhMDAyZDliOWE0XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+			"overview": "Karen buys a high-tech doll called Chucky for her son Andy on his birthday. However, horrific events follow as the doll reveals its ominous tendencies."
+		},
+		{
+			"id": 56,
+			"title": "Captain Marvel",
+			"genres": ["action", "adventure"],
+			"users-rating": 76,
+			"release_Date": 2019,
+			"director": "Anna Boden, Ryan Fleck",
+			"runtime": 124,
+			"meta_Score": 75,
+			"imdb_score": 6.8,
+			"actors": [
+				"Brie Larson",
+				"Samuel L. Jackson",
+				"Gemma Chan",
+				"Lashana Lynch"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg",
+			"overview": "Amidst a mission, Vers, a Kree warrior, gets separated from her team and is stranded on Earth. However, her life takes an unusual turn after she teams up with Fury, a S.H.I.E.L.D. agent"
+		},
+		{
+			"id": 57,
+			"title": "Doctor Sleep",
+			"genres": ["thriller", "psychologic"],
+			"users-rating": 86,
+			"release_Date": 2019,
+			"director": "Mike Flanagan",
+			"runtime": 152,
+			"meta_Score": 59,
+			"imdb_score": 7.3,
+			"actors": [
+				"Ewan McGregor",
+				"Alex Essoe",
+				"Kyliegh Curran",
+				"Carl Lumbly"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_.jpg",
+			"overview": "While Danny Torrance struggles to overcome his traumatic past, he finds a little girl sharing his gift of the shine. Thereafter, he goes on a quest to protect her from the bloodthirsty True Knot."
+		},
+		{
+			"id": 58,
+			"title": "El Camino: A Breaking Bad Movie",
+			"genres": ["crime", "western"],
+			"users-rating": 85,
+			"release_Date": 2019,
+			"director": "Vince Gilligan",
+			"runtime": 122,
+			"meta_Score": "",
+			"imdb_score": 7.3,
+			"actors": [
+				"Jesse Plemons",
+				"Bryan Cranston",
+				"Krysten Ritter",
+				"Robert Forster"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_.jpg",
+			"overview": "After a dramatic escape from captivity, Jesse Pinkman must deal with his past in order to make some kind of future for himself."
+		},
+		{
+			"id": 59,
+			"title": "It Chapter Two",
+			"genres": ["thriller", "supernatural"],
+			"users-rating": 69,
+			"release_Date": 2019,
+			"director": "Andrés Muschietti",
+			"runtime": 169,
+			"meta_Score": 58,
+			"imdb_score": 6.5,
+			"actors": [
+				"Jessica Chastain",
+				"Bill Hader",
+				"James McAvoy",
+				"Stephen King"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+			"overview": "After 27 years, the Losers Club receive a call from their friend Mike Hanlon that Pennywise is back. They decide to honour their promise and return to their old town to end the evil clown for good."
+		},
+		{
+			"id": 60,
+			"title": "The Two Popes",
+			"genres": ["action", "drama"],
+			"users_rating": 92,
+			"release_Date": 2019,
+			"director": "Fernando Meirelles",
+			"runtime": 125,
+			"meta_Score": 75,
+			"imdb_score": 7.6,
+			"actors": [
+				"Jonathan Pryce",
+				"Anthony Hopkins",
+				"Anthony McCarten",
+				"Juan Minujín"
+			],
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOGIzOTZiZjItNTMyYS00ODcyLWE2ZDUtYWNjZDNmNTUxYjVkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+			"overview": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left -- his daughter."
+		}
+	],
+	"slider": [
+		{
+			"id": "slide-1",
+			"title": "The Lord of the Rings Triology",
+			"image_url": "/images/slider/slide-1.jpg",
+			"genres": ["adventure", "fantasy"],
+			"raiting": 4.5,
+			"director": "Peter Jackson",
+			"info": [
+				{
+					"title": "The Fellowship of the Ring",
+					"release_Date": 2001
+				},
+				{
+					"title": "The Two Towers",
+					"release_Date": 2002
+				},
+				{
+					"title": "The Return of the King",
+					"release_Date": 2003
+				}
+			],
+			"description": "This critically acclaimed epic trilogy follows the quest undertaken by the hobbit, Frodo Baggins, and his fellowship of companions to save Middle-earth by destroying the One Ring and defeating the evil forces of the Dark Lord Sauron."
+		},
+		{
+			"id": "slide-2",
+			"title": "The Hobbit trilogy",
+			"image_url": "/images/slider/slide-2.jpg",
+			"genres": ["adventure", "fantasy"],
+			"raiting": 4.3,
+			"director": "Peter Jackson",
+			"info": [
+				{
+					"title": "An Unexpected Journey",
+					"release_Date": 2012
+				},
+				{
+					"title": "The Desolation of Smaug",
+					"release_Date": 2013
+				},
+				{
+					"title": "The Battle of the Five Armies",
+					"release_Date": 2014
+				}
+			],
+			"description": "journeys back to Middle-earth with an all-new adventure following Bilbo Baggins, who’s swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Bilbo, along with the company of thirteen dwarves and the wizard Gandalf the Grey, encounter trolls, orcs, goblins, elves and the mysterious Gollum."
+		},
+		{
+			"id": "slide-3",
+			"title": "The AVENGERS COLLECTION",
+			"image_url": "/images/slider/slide-3.jpg",
+			"genres": ["adventure", "fantasy"],
+			"raiting": 4.6,
+			"director": "Joss Whedon",
+			"info": [
+				{
+					"title": "The Avengers",
+					"release_Date": 2012
+				},
+				{
+					"title": "Age of Ultron",
+					"release_Date": 2015
+				},
+				{
+					"title": "Infinity War",
+					"release_Date": 2018
+				},
+				{
+					"title": "Endgame",
+					"release_Date": 2019
+				}
+			],
+			"description": "A superhero film series produced by Marvel Studios based on the Marvel Comics superhero team of the same name, and part of the Marvel Cinematic Universe (MCU). The series features an ensemble cast from the Marvel Cinematic Universe series films, as they join forces for the peacekeeping organization S.H.I.E.L.D. led by Nick Fury."
+		},
+		{
+			"id": "slide-4",
+			"title": "The Lord of the Rings Triology-1",
+			"image_url": "/images/slider/slide-1.jpg",
+			"genres": ["adventure", "fantasy"],
+			"raiting": 4.5,
+			"director": "Peter Jackson",
+			"info": [
+				{
+					"title": "The Fellowship of the Ring",
+					"release_Date": 2001
+				},
+				{
+					"title": "The Two Towers",
+					"release_Date": 2002
+				},
+				{
+					"title": "The Return of the King",
+					"release_Date": 2003
+				}
+			],
+			"description": "This critically acclaimed epic trilogy follows the quest undertaken by the hobbit, Frodo Baggins, and his fellowship of companions to save Middle-earth by destroying the One Ring and defeating the evil forces of the Dark Lord Sauron."
+		},
+		{
+			"id": "slide-5",
+			"title": "The Hobbit trilogy-1",
+			"image_url": "/images/slider/slide-2.jpg",
+			"genres": ["adventure", "fantasy"],
+			"raiting": 4.3,
+			"director": "Peter Jackson",
+			"info": [
+				{
+					"title": "An Unexpected Journey",
+					"release_Date": 2012
+				},
+				{
+					"title": "The Desolation of Smaug",
+					"release_Date": 2013
+				},
+				{
+					"title": "The Battle of the Five Armies",
+					"release_Date": 2014
+				}
+			],
+			"description": "journeys back to Middle-earth with an all-new adventure following Bilbo Baggins, who’s swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Bilbo, along with the company of thirteen dwarves and the wizard Gandalf the Grey, encounter trolls, orcs, goblins, elves and the mysterious Gollum."
+		},
+		{
+			"id": "slide-6",
+			"title": "The AVENGERS COLLECTION-1",
+			"image_url": "/images/slider/slide-3.jpg",
+			"genres": ["adventure", "fantasy"],
+			"raiting": 4.6,
+			"director": "Joss Whedon",
+			"info": [
+				{
+					"title": "The Avengers",
+					"release_Date": 2012
+				},
+				{
+					"title": "Age of Ultron",
+					"release_Date": 2015
+				},
+				{
+					"title": "Infinity War",
+					"release_Date": 2018
+				},
+				{
+					"title": "Endgame",
+					"release_Date": 2019
+				}
+			],
+			"description": "A superhero film series produced by Marvel Studios based on the Marvel Comics superhero team of the same name, and part of the Marvel Cinematic Universe (MCU). The series features an ensemble cast from the Marvel Cinematic Universe series films, as they join forces for the peacekeeping organization S.H.I.E.L.D. led by Nick Fury."
+		}
+	]
+}
