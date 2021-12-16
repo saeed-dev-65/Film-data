@@ -1,7 +1,7 @@
 /** @format */
 const carusel = document.querySelector('.carusel');
 const body = document.querySelector('body');
-const slidesContainer = document.querySelector('.slides-container');
+const slidesContainer = document.querySelector('.carusel-container');
 const section1 = document.querySelector('.section-1');
 const section2 = document.querySelector('.section-2');
 
@@ -89,7 +89,7 @@ if (localStorage.getItem('isDarkMode') === 'true') {
 
 switcher.addEventListener('change', themSwitchHandler);
 
-/* --------------------------------- SLIDER --------------------------------- */
+/* --------------------------------- Carusel Slider ------------------------ */
 // FETCH SLIDER DATA FRO API
 fetch('./db.json')
 	.then((response) => {
@@ -106,27 +106,21 @@ fetch('./db.json')
 		const prevBtn = document.querySelector('.prev-btn');
 		const bullets = document.querySelectorAll('.bullet');
 		const bulletsContainer = document.querySelector('.bullets');
+
 		let slideWidth = slides[0].clientWidth;
 		// ORDER EACH SLIDE SIDE BY SIDE
-		slides.forEach((slide, i) => {
-			slide.style.left = i * slideWidth + 'px';
-		});
 
 		// CONTROL SIZE OF SLIDE WHEN WINDOW RESIZE
-		window.addEventListener('resize', () => {
-			clearInterval('resize');
-			slides.forEach((slide, i) => {
-				slide.style.left = i * slideWidth + 'px';
-			});
-		});
 
 		// BASE SLIDER INDEX
 		let slideIndex = 0;
 
 		// SHOW CURRENT SLIDE AND CURRENT BULLET
 		function showSlide(slideIndex) {
-			slidesContainer.style.transform =
-				'translateX(-' + slideWidth * slideIndex + 'px)';
+			slides.forEach((slide) => {
+				slide.style.transform = `translateX(-${slideWidth * slideIndex}px)`;
+			});
+			slides[slideIndex].classList.add('active');
 			removeClass(bullets);
 			bullets[slideIndex].classList.add('active');
 		}
