@@ -1074,7 +1074,7 @@
 		{
 			"id": "slide-1",
 			"title": "The Lord of the Rings Triology",
-			"image_url": "images/slider/slide-1.jpg",
+			"image_url": "https://saeed-dev-65.github.io/Film-data/images/slider/slide-1.jpg",
 			"genres": ["adventure", "fantasy"],
 			"raiting": 4.5,
 			"director": "Peter Jackson",
@@ -1097,7 +1097,7 @@
 		{
 			"id": "slide-2",
 			"title": "The Hobbit trilogy",
-			"image_url": "images/slider/slide-2.jpg",
+			"image_url": "https://saeed-dev-65.github.io/Film-data/images/slider/slide-2.jpg",
 			"genres": ["adventure", "fantasy"],
 			"raiting": 4.3,
 			"director": "Peter Jackson",
@@ -1120,7 +1120,7 @@
 		{
 			"id": "slide-3",
 			"title": "The AVENGERS COLLECTION",
-			"image_url": "images/slider/slide-3.jpg",
+			"image_url": "https://saeed-dev-65.github.io/Film-data/images/slider/slide-3.jpg",
 			"genres": ["adventure", "fantasy"],
 			"raiting": 4.6,
 			"director": "Joss Whedon",
@@ -1147,7 +1147,7 @@
 		{
 			"id": "slide-4",
 			"title": "The Lord of the Rings Triology-1",
-			"image_url": "images/slider/slide-1.jpg",
+			"image_url": "https://saeed-dev-65.github.io/Film-data/images/slider/slide-1.jpg",
 			"genres": ["adventure", "fantasy"],
 			"raiting": 4.5,
 			"director": "Peter Jackson",
@@ -1170,7 +1170,7 @@
 		{
 			"id": "slide-5",
 			"title": "The Hobbit trilogy-1",
-			"image_url": "images/slider/slide-2.jpg",
+			"image_url": "https://saeed-dev-65.github.io/Film-data/images/slider/slide-2.jpg",
 			"genres": ["adventure", "fantasy"],
 			"raiting": 4.3,
 			"director": "Peter Jackson",
@@ -1193,7 +1193,7 @@
 		{
 			"id": "slide-6",
 			"title": "The AVENGERS COLLECTION-1",
-			"image_url": "images/slider/slide-3.jpg",
+			"image_url": "https://saeed-dev-65.github.io/Film-data/images/slider/slide-3.jpg",
 			"genres": ["adventure", "fantasy"],
 			"raiting": 4.6,
 			"director": "Joss Whedon",
