@@ -109,6 +109,14 @@ fetch('./db.json')
 
 		let slideWidth = slides[0].clientWidth;
 		// ORDER EACH SLIDE SIDE BY SIDE
+	
+		window.addEventListener('resize', () => {
+			console.log('resize');
+			slideWidth = window.innerWidth;
+			slideIndex = 0;
+			showSlide(0);
+		});
+
 
 		// CONTROL SIZE OF SLIDE WHEN WINDOW RESIZE
 
