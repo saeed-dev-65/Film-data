@@ -176,7 +176,7 @@ function slider(data) {
 
 		slide.className = `slide ${el.id === 'slide-1' ? 'active' : ''}`;
 		slide.id = el.id;
-		slide.style.backgroundImage = `url(https://saeed-dev-65.github.io/${el.image_url})`;
+		slide.style.backgroundImage = `url(https://saeed-dev-65.github.io/Film-data/${el.image_url})`;
 		slide.style.backgroundRepeat = `no-repeat`;
 		slide.style.backgroundSize = `cover`;
 		slide.style.backgroundPosition = `center`;
